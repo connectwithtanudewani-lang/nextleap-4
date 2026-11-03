@@ -1,0 +1,431 @@
+[
+ {
+  "id": "flexi_overview",
+  "scheme": "flexi",
+  "topics": [
+   "overview",
+   "category",
+   "lock_in"
+  ],
+  "source": "S01",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Flexi Cap Fund is an open-ended dynamic equity scheme investing across large-cap, mid-cap and small-cap stocks, and can also hold overseas-listed stocks. Being open-ended, it has no lock-in (exit load may apply on early redemption). Its date of allotment is 24 May 2013."
+ },
+ {
+  "id": "flexi_exit_load",
+  "scheme": "flexi",
+  "topics": [
+   "exit_load"
+  ],
+  "source": "S01",
+  "as_of": "2026-11-03",
+  "text": "For each purchase or switch-in, 10% of units can be redeemed without exit load; units above that limit attract 2% if redeemed within 365 days of allotment and 1% if redeemed after 365 but within 730 days. There is no exit load after 730 days, and none on switches between the Regular and Direct plans. This structure applies to all investments (including SIP/STP/SWP registrations) from 15 Nov 2021."
+ },
+ {
+  "id": "flexi_min",
+  "scheme": "flexi",
+  "topics": [
+   "min_sip",
+   "min_lumpsum"
+  ],
+  "source": "S01",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Flexi Cap Fund needs a minimum of ₹1,000 for a new purchase and ₹1,000 for additional purchases. The minimum monthly SIP is ₹1,000 and the minimum quarterly SIP is ₹3,000."
+ },
+ {
+  "id": "flexi_expense",
+  "scheme": "flexi",
+  "topics": [
+   "expense_ratio"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "As per the September 2026 factsheet, the base expense ratio of Parag Parikh Flexi Cap Fund is 1.05% for the Regular Plan and 0.53% for the Direct Plan (as on the last business day of the month). The full Total Expense Ratio disclosure is on the AMC's TER page."
+ },
+ {
+  "id": "flexi_benchmark",
+  "scheme": "flexi",
+  "topics": [
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The benchmark of Parag Parikh Flexi Cap Fund is the NIFTY 500 TRI."
+ },
+ {
+  "id": "flexi_risk",
+  "scheme": "flexi",
+  "topics": [
+   "riskometer",
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The riskometer of Parag Parikh Flexi Cap Fund is 'Very High' as of 30 September 2026, and its benchmark (NIFTY 500 TRI) is also rated 'Very High'."
+ },
+ {
+  "id": "flexi_docs",
+  "scheme": "flexi",
+  "topics": [
+   "documents"
+  ],
+  "source": "S12",
+  "as_of": "2026-11-03",
+  "text": "The Key Information Memorandum (KIM) of Parag Parikh Flexi Cap Fund summarises its objective, risks, charges and transaction details. The KIM and SID for every PPFAS scheme are published on the AMC's KIM, SID and SAI page."
+ },
+ {
+  "id": "elss_overview",
+  "scheme": "elss",
+  "topics": [
+   "overview",
+   "category"
+  ],
+  "source": "S02",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh ELSS Tax Saver Fund is an open-ended Equity Linked Savings Scheme that invests at least 80% of its corpus in Indian equities. Every investment instalment is subject to a 3-year lock-in."
+ },
+ {
+  "id": "elss_lockin",
+  "scheme": "elss",
+  "topics": [
+   "lock_in"
+  ],
+  "source": "S02",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh ELSS Tax Saver Fund has a lock-in of 3 years from the date of investment, applied to each instalment separately. So every SIP instalment becomes redeemable only 3 years after its own investment date."
+ },
+ {
+  "id": "elss_min",
+  "scheme": "elss",
+  "topics": [
+   "min_sip",
+   "min_lumpsum"
+  ],
+  "source": "S02",
+  "as_of": "2026-11-03",
+  "text": "The minimum lump-sum investment in Parag Parikh ELSS Tax Saver Fund is ₹500, in multiples of ₹500. The minimum monthly SIP is ₹1,000 (multiples of ₹500, at least 6 instalments) and the minimum quarterly SIP is ₹3,000 (multiples of ₹500, at least 4 instalments)."
+ },
+ {
+  "id": "elss_exit_load",
+  "scheme": "elss",
+  "topics": [
+   "exit_load"
+  ],
+  "source": "S03",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh ELSS Tax Saver Fund does not charge any exit load, and entry load is not applicable. Redemptions are still subject to the 3-year lock-in on each instalment."
+ },
+ {
+  "id": "elss_expense",
+  "scheme": "elss",
+  "topics": [
+   "expense_ratio"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "As per the September 2026 factsheet, the base expense ratio of Parag Parikh ELSS Tax Saver Fund is 1.54% for the Regular Plan and 0.54% for the Direct Plan (as on the last business day of the month). The full Total Expense Ratio disclosure is on the AMC's TER page."
+ },
+ {
+  "id": "elss_benchmark",
+  "scheme": "elss",
+  "topics": [
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The benchmark of Parag Parikh ELSS Tax Saver Fund is the NIFTY 500 TRI."
+ },
+ {
+  "id": "elss_risk",
+  "scheme": "elss",
+  "topics": [
+   "riskometer",
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The riskometer of Parag Parikh ELSS Tax Saver Fund is 'Very High' as of 30 September 2026, and its benchmark (NIFTY 500 TRI) is also rated 'Very High'."
+ },
+ {
+  "id": "elss_tax",
+  "scheme": "elss",
+  "topics": [
+   "tax_80c"
+  ],
+  "source": "S04",
+  "as_of": "2026-11-03",
+  "text": "Investments in Parag Parikh ELSS Tax Saver Fund qualify for a deduction under Section 80C of up to ₹1.5 lakh, only for investors who opt for the old income-tax regime. You can invest more than ₹1.5 lakh, but the deduction is capped at that amount."
+ },
+ {
+  "id": "elss_docs",
+  "scheme": "elss",
+  "topics": [
+   "documents"
+  ],
+  "source": "S13",
+  "as_of": "2026-11-03",
+  "text": "The Scheme Information Document (SID) of Parag Parikh ELSS Tax Saver Fund carries its full asset allocation, risk factors and terms. The KIM and SID for every PPFAS scheme are on the AMC's KIM, SID and SAI page."
+ },
+ {
+  "id": "lc_overview",
+  "scheme": "largecap",
+  "topics": [
+   "overview",
+   "category"
+  ],
+  "source": "S05",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Large Cap Fund is an open-ended equity scheme that invests predominantly in large-cap stocks (80%–100% of assets), in SEBI's Large Cap Fund category."
+ },
+ {
+  "id": "lc_benchmark",
+  "scheme": "largecap",
+  "topics": [
+   "benchmark"
+  ],
+  "source": "S05",
+  "as_of": "2026-11-03",
+  "text": "The AMFI Tier I benchmark of Parag Parikh Large Cap Fund is the Nifty 100 TRI."
+ },
+ {
+  "id": "lc_risk",
+  "scheme": "largecap",
+  "topics": [
+   "riskometer",
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The riskometer of Parag Parikh Large Cap Fund is 'Very High' as of 30 September 2026, and its benchmark (NIFTY 100 TRI) is also rated 'Very High'."
+ },
+ {
+  "id": "lc_exit_load",
+  "scheme": "largecap",
+  "topics": [
+   "exit_load",
+   "lock_in"
+  ],
+  "source": "S05",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Large Cap Fund has no exit load (Nil), and entry load is not applicable. Being an open-ended scheme, it has no lock-in either."
+ },
+ {
+  "id": "lc_min",
+  "scheme": "largecap",
+  "topics": [
+   "min_sip",
+   "min_lumpsum"
+  ],
+  "source": "S05",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Large Cap Fund needs ₹1,000 for the initial and additional purchase, and the minimum monthly SIP is ₹1,000 (quarterly SIP ₹3,000). Minimum redemption is ₹1,000 or 1 unit or the account balance, whichever is lower."
+ },
+ {
+  "id": "lc_expense",
+  "scheme": "largecap",
+  "topics": [
+   "expense_ratio"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "As per the September 2026 factsheet, the base expense ratio of Parag Parikh Large Cap Fund is 0.48% for the Regular Plan and 0.14% for the Direct Plan (as on the last business day of the month). The full Total Expense Ratio disclosure is on the AMC's TER page."
+ },
+ {
+  "id": "lc_docs",
+  "scheme": "largecap",
+  "topics": [
+   "documents"
+  ],
+  "source": "S14",
+  "as_of": "2026-11-03",
+  "text": "The Scheme Information Document (SID) of Parag Parikh Large Cap Fund has its full asset allocation, risk factors and terms. The KIM and SID for every PPFAS scheme are on the AMC's KIM, SID and SAI page."
+ },
+ {
+  "id": "liq_overview",
+  "scheme": "liquid",
+  "topics": [
+   "overview",
+   "category",
+   "lock_in"
+  ],
+  "source": "S06",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Liquid Fund is an open-ended liquid scheme with relatively low interest-rate risk and relatively low credit risk, buying only debt and money-market securities that mature within 91 days. Being open-ended, it has no lock-in; a small graded exit load applies only in the first 6 days."
+ },
+ {
+  "id": "liq_exit_load",
+  "scheme": "liquid",
+  "topics": [
+   "exit_load"
+  ],
+  "source": "S06",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Liquid Fund charges a graded exit load only if you exit within 7 days: 0.0070% on day 1, falling by 0.0005% a day to 0.0045% on day 6. From day 7 onwards the exit load is nil."
+ },
+ {
+  "id": "liq_min",
+  "scheme": "liquid",
+  "topics": [
+   "min_sip",
+   "min_lumpsum"
+  ],
+  "source": "S06",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Liquid Fund needs ₹5,000 for a fresh purchase and ₹1,000 for additional purchases. The minimum monthly SIP is ₹1,000 and the minimum quarterly SIP is ₹3,000."
+ },
+ {
+  "id": "liq_insta",
+  "scheme": "liquid",
+  "topics": [
+   "redemption"
+  ],
+  "source": "S06",
+  "as_of": "2026-11-03",
+  "text": "Parag Parikh Liquid Fund offers Insta Redemption of up to ₹50,000 or 90% of the latest holding value, whichever is lower. Proceeds are targeted to reach your bank within 30 minutes, subject to system availability and bank response times."
+ },
+ {
+  "id": "liq_expense",
+  "scheme": "liquid",
+  "topics": [
+   "expense_ratio"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "As per the September 2026 factsheet, the base expense ratio of Parag Parikh Liquid Fund is 0.17% for the Regular Plan and 0.09% for the Direct Plan (as on the last business day of the month). The full Total Expense Ratio disclosure is on the AMC's TER page."
+ },
+ {
+  "id": "liq_benchmark",
+  "scheme": "liquid",
+  "topics": [
+   "benchmark"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The benchmark of Parag Parikh Liquid Fund is the CRISIL Liquid Debt A-I Index."
+ },
+ {
+  "id": "liq_risk",
+  "scheme": "liquid",
+  "topics": [
+   "riskometer"
+  ],
+  "source": "S07",
+  "as_of": "2026-09-30",
+  "text": "The riskometer of Parag Parikh Liquid Fund is 'Low to Moderate' as of 30 September 2026, and its benchmark is also 'Low to Moderate'."
+ },
+ {
+  "id": "liq_docs",
+  "scheme": "liquid",
+  "topics": [
+   "documents"
+  ],
+  "source": "S15",
+  "as_of": "2026-11-03",
+  "text": "The Key Information Memorandum (KIM) of Parag Parikh Liquid Fund summarises its objective, risks, charges and transaction details. The KIM and SID for every PPFAS scheme are on the AMC's KIM, SID and SAI page."
+ },
+ {
+  "id": "gen_ter",
+  "scheme": "general",
+  "topics": [
+   "expense_ratio"
+  ],
+  "source": "S10",
+  "as_of": "2026-11-03",
+  "text": "PPFAS Mutual Fund publishes the Total Expense Ratio (TER) of all its schemes on its TER disclosure page, as required by SEBI's circular of 5 June 2018. Notices of changes in base TER are listed on the same page."
+ },
+ {
+  "id": "gen_factsheet",
+  "scheme": "general",
+  "topics": [
+   "performance",
+   "factsheet"
+  ],
+  "source": "S09",
+  "as_of": "2026-11-03",
+  "text": "PPFAS Mutual Fund publishes a monthly factsheet for every scheme, with official performance, portfolio holdings, fund managers, AUM, expense ratio and riskometer data. Past performance may or may not be sustained in the future."
+ },
+ {
+  "id": "gen_factsheet_pdf",
+  "scheme": "general",
+  "topics": [
+   "factsheet",
+   "performance"
+  ],
+  "source": "S08",
+  "as_of": "2026-09-30",
+  "text": "The September 2026 factsheet PDF covers all PPFAS schemes with data as of 30 September 2026."
+ },
+ {
+  "id": "gen_kim_sid",
+  "scheme": "general",
+  "topics": [
+   "documents"
+  ],
+  "source": "S11",
+  "as_of": "2026-11-03",
+  "text": "PPFAS Mutual Fund publishes the Key Information Memorandum (KIM) and Scheme Information Document (SID) for every scheme, plus the Statement of Additional Information (SAI), on its KIM, SID and SAI page."
+ },
+ {
+  "id": "gen_missed_call",
+  "scheme": "general",
+  "topics": [
+   "statement"
+  ],
+  "source": "S16",
+  "as_of": "2026-11-03",
+  "text": "PPFAS Mutual Fund investors can get their account statement by giving a missed call to +91 95554 92932. You can also download statements by logging in on the AMC website or through the registrar."
+ },
+ {
+  "id": "gen_cg_statement",
+  "scheme": "general",
+  "topics": [
+   "capital_gains",
+   "statement"
+  ],
+  "source": "S17",
+  "as_of": "2026-11-03",
+  "text": "To get a capital-gains statement, log in on the fund house's website and download the capital gains report, or use the registrar portals. On CAMS (camsonline.com) go to Statements → Capital Gain/Loss Statement, enter PAN and registered email, pick up to three financial years, and an encrypted PDF is emailed to you. On KFintech (mfs.kfintech.com) go to Investor Statement and Report → Capital Gains Statement → Consolidated Capital Gains Statement."
+ },
+ {
+  "id": "gen_elss_amfi",
+  "scheme": "general",
+  "topics": [
+   "lock_in",
+   "tax_80c"
+  ],
+  "source": "S18",
+  "as_of": "2026-11-03",
+  "text": "An ELSS lets an individual or HUF claim a deduction of up to ₹1.5 lakh a year under Section 80C of the Income Tax Act. ELSS units have a lock-in of three years from allotment, after which they can be redeemed or switched."
+ },
+ {
+  "id": "gen_riskometer",
+  "scheme": "general",
+  "topics": [
+   "riskometer"
+  ],
+  "source": "S20",
+  "as_of": "2026-11-03",
+  "text": "SEBI's risk-o-meter has six levels: Low, Low to Moderate, Moderate, Moderately High, High and Very High. Fund houses re-evaluate it every month and disclose it with their portfolio disclosures."
+ },
+ {
+  "id": "gen_category",
+  "scheme": "general",
+  "topics": [
+   "category",
+   "benchmark"
+  ],
+  "source": "S21",
+  "as_of": "2026-11-03",
+  "text": "SEBI's 6 October 2017 circular standardised mutual fund scheme categories (equity, debt, hybrid, solution-oriented and others) and their characteristics. A fund house is generally allowed only one scheme per category."
+ },
+ {
+  "id": "gen_education",
+  "scheme": "general",
+  "topics": [
+   "education"
+  ],
+  "source": "S19",
+  "as_of": "2026-11-03",
+  "text": "AMFI's investor-education site explains how mutual funds work, the main scheme types and the questions to think through before choosing one."
+ }
+]

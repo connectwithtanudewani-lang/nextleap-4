@@ -1,0 +1,22 @@
+id,publisher,title,type,scheme,url
+S01,PPFAS AMC,Parag Parikh Flexi Cap Fund – scheme page (facts + exit load),Scheme page,Flexi Cap,https://amc.ppfas.com/schemes/parag-parikh-flexi-cap-fund/
+S02,PPFAS AMC,Parag Parikh ELSS Tax Saver Fund – Scheme Facts,Scheme page,ELSS,https://amc.ppfas.com/schemes/parag-parikh-elss-tax-saver-fund/scheme-facts/
+S03,PPFAS AMC,Parag Parikh ELSS Tax Saver Fund – Entry and Exit Loads,Fees/charges,ELSS,https://amc.ppfas.com/schemes/parag-parikh-elss-tax-saver-fund/entry-exit-load/
+S04,PPFAS AMC,Parag Parikh ELSS Tax Saver Fund – FAQs,Scheme FAQ,ELSS,https://amc.ppfas.com/schemes/parag-parikh-elss-tax-saver-fund/faqs/
+S05,PPFAS AMC,Parag Parikh Large Cap Fund – Scheme Facts,Scheme page,Large Cap,https://amc.ppfas.com/schemes/parag-parikh-large-cap-fund/scheme-facts/
+S06,PPFAS AMC,Parag Parikh Liquid Fund – Scheme Features (incl. exit load),Scheme page,Liquid,https://amc.ppfas.com/schemes/parag-parikh-liquid-fund/
+S07,PPFAS AMC,Digital Factsheet – September 2026,Factsheet,All,https://amc.ppfas.com/downloads/digital-factsheet/2026/september-2026/
+S08,PPFAS AMC,Factsheet PDF – September 2026,Factsheet,All,https://amc.ppfas.com/downloads/factsheet/2026/ppfas-mf-factsheet-for-September-2026.pdf
+S09,PPFAS AMC,Monthly Factsheets (archive),Factsheet,All,https://amc.ppfas.com/downloads/factsheet/
+S10,PPFAS AMC,Total Expense Ratio (TER) of Schemes,Fees/charges,All,https://amc.ppfas.com/statutory-disclosures/total-expense-ratio-TER/
+S11,PPFAS AMC,"KIM, SID and SAI downloads",Offer documents,All,https://amc.ppfas.com/downloads/kim-sid-and-sai/
+S12,PPFAS AMC,KIM – Parag Parikh Flexi Cap Fund,KIM,Flexi Cap,https://amc.ppfas.com/downloads/parag-parikh-flexi-cap-fund/KIM_PPFCF.pdf
+S13,PPFAS AMC,SID – Parag Parikh ELSS Tax Saver Fund,SID,ELSS,https://amc.ppfas.com/downloads/parag-parikh-tax-saver-fund/sid-parag-parikh-tax-saver-fund.pdf
+S14,PPFAS AMC,SID – Parag Parikh Large Cap Fund,SID,Large Cap,https://amc.ppfas.com/downloads/parag-parikh-large-cap-fund/sid-parag-parikh-large-cap-fund.pdf
+S15,PPFAS AMC,KIM – Parag Parikh Liquid Fund,KIM,Liquid,https://amc.ppfas.com/downloads/parag-parikh-liquid-fund/kim-parag-parikh-liquid-fund.pdf
+S16,PPFAS AMC,Account Statement via 'Missed Call',Statement guide,All,https://amc.ppfas.com/investor-desk/statement-via-missed-call/
+S17,AMFI (Mutual Funds Sahi Hai),How to Get Capital Gain Statement for Mutual Funds,Statement/tax guide,All,https://www.mutualfundssahihai.com/en/how-get-capital-gain-statement-mutual-funds
+S18,AMFI (Mutual Funds Sahi Hai),ELSS Fund – Tax Saving Mutual Fund,Investor education,ELSS,https://www.mutualfundssahihai.com/en/elss-fund-tax-saving-mutual-fund
+S19,AMFI (Mutual Funds Sahi Hai),What is a Mutual Fund?,Investor education,All,https://www.mutualfundssahihai.com/en/what-is-a-mutual-fund
+S20,SEBI,Circular: Product Labeling in Mutual Fund schemes – Risk-o-meter (Oct 5 2020),Riskometer note,All,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html
+S21,SEBI (hosted by AMFI),Circular: Categorization and Rationalization of MF Schemes (Oct 6 2017),Category/benchmark note,All,https://www.amfiindia.com/Themes/Theme1/downloads/1507291273374.pdf
