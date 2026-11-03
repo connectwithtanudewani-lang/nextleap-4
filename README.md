@@ -4,7 +4,7 @@
 
 A small RAG assistant that answers factual questions — expense ratio, exit load, minimum SIP, ELSS lock-in, riskometer, benchmark, statements — from **21 official AMC / AMFI / SEBI pages**. Every answer is ≤3 sentences, cites exactly one source link, and ends with *Last updated from sources: <date>*. It refuses advice, never quotes returns, and never accepts PII.
 
-**Live prototype:** `<add your Streamlit Cloud link here>`
+**Live prototype:** https://nextleap-4-nvuvylhlyne8bhaj8gmqme.streamlit.app/
 
 ## Scope
 
