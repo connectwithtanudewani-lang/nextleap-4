@@ -71,7 +71,7 @@ python -m scripts.make_docs         # regenerates SAMPLE_QA.md and SOURCES.md fr
 ## Repo map
 
 ```
-app.py                 Streamlit UI: dark chat-only screen (welcome line, 3 example chips, disclaimer under the input)
+app.py                 Streamlit UI: ChatGPT-style violet chat (hero + 4 suggestion cards, then conversation; disclaimer under the input)
 rag/guardrails.py      PII / advice / performance / scope rules
 rag/retriever.py       scheme + topic routing, TF-IDF ranking
 rag/assistant.py       pipeline, refusals, citation + date footer
